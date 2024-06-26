@@ -53,6 +53,7 @@ Para executar este projeto, siga estas etapas:
 ## Instruções Adicionais
 
 - Abra o arquivo `Storytelling_Influenciadores_Digitais` na pasta de **Análise de Dados** .
+- Selecione run all para todas as celulas.
 - Certifique-se de selecionar o kernel Python 3.11.9 para executar o notebook e ter as dependencias instaladas.
 
 ## Contato
