@@ -1,4 +1,4 @@
-# Projeto de Data Science
+# Data Science
 
 ## Visão Geral
 
@@ -46,14 +46,14 @@ Para executar este projeto, siga estas etapas:
 
 ## Executando o Projeto
 
-1. **Coleta de Dados**: Execute os scripts de coleta de dados no diretório `DataScrap`.
+1. **DataScrap**: Dados brutos estao nessa pasta.
 2. **Análise de Dados**: Analise os dados no diretório `DataAnalytics`.
 3. **População do Banco de Dados**: Popule o banco de dados usando os scripts no diretório `DataPopulateScripts`.
 
 ## Instruções Adicionais
 
-- Abra o arquivo `Storytelling_Influenciadores_Digitais`.
-- Certifique-se de selecionar o kernel Python 3.11.9 para executar o notebook.
+- Abra o arquivo `Storytelling_Influenciadores_Digitais` na pasta de **Análise de Dados** .
+- Certifique-se de selecionar o kernel Python 3.11.9 para executar o notebook e ter as dependencias instaladas.
 
 ## Contato
 
@@ -62,4 +62,4 @@ Para mais informações ou dúvidas, entre em contato:
 - **WhatsApp**: [24 99280-4547](https://wa.me/5524992804547)
 - **Email**: [zuvanovm@gmail.com](mailto:zuvanovm@gmail.com)
 
-Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou precisar de mais assistência. Feliz codificação!
+Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou precisar de mais assistência. 
